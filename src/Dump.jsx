@@ -52,12 +52,21 @@ export const data = [
 export const userData = [
   {
     id: 1,
-    username: "John",
+    username: "Shark Dzung",
     avatar:
       "https://images.pexels.com/photos/1830937/pexels-photo-1830937.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    email: "john@gmail.com",
+    email: "shark@gmail.com",
     status: "active",
-    transaction: "$120.00",
+    transaction: "$9999.00",
+  },
+  {
+    id: 2,
+    username: "Shark1",
+    avatar:
+      "https://images.pexels.com/photos/1830937/pexels-photo-1830937.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    email: "shark1@gmail.com",
+    status: "active",
+    transaction: "$123.00",
   },
 ];
 
